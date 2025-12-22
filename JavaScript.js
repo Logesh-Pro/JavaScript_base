@@ -8,3 +8,5 @@ console.log("Hello, World!");
 // sysnchronous means one at a time in order
 // memory component is where variables and functions are stored
 // code component is where the whole javascript code is executed
+// call stack maintains the order of execution of ececution contexts
+// call stack is also known as execution context stack, program stack, control stack, runtime stack, machine stack
