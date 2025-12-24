@@ -1,1 +1,0 @@
-// A simple poject to undersand the concepts of JavaScript Variables
