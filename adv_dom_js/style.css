@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.pass{
+    color: green;
+    font-weight: bold;
+}
+.fail{
+    color: red;
+    font-weight: bold;
+}
+.error {
+    color: orange;
+}
